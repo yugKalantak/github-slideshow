@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: “Welcome to our second slide!”
+title: “yug bandhara!”
 ---
-Your test
+something new
 Use the left arrow to go back!
